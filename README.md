@@ -49,7 +49,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img width=390 src="https://streak-stats.demolab.com/?user=NagarajGouda07&theme=react&border_radius=10&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="streak stats" />
+ <img width=410 src="https://streak-stats.demolab.com/?user=NagarajGouda07&theme=react&border_radius=10&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="streak stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=NagarajGouda07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagarajGouda07&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
