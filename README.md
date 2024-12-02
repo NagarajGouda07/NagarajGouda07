@@ -47,8 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NagarajGouda07/NagarajGouda07/output/github-contribution-grid-snake.svg" />
-  
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NagarajGouda07/output/main/github-contribution-grid-snake.svg" />
+
   <br/><br/><br/>
 </div>
 
@@ -57,10 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-NagarajGouda07.vercel.app/?user=NagarajGouda07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-NagarajGouda07.vercel.app/api?username=NagarajGouda07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-NagarajGouda07.vercel.app/api/top-langs/?username=NagarajGouda07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <img width=390 src="https://streak-stats.demolab.com/?user=NagarajGouda07&theme=react&border_radius=10&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NagarajGouda07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagarajGouda07&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
