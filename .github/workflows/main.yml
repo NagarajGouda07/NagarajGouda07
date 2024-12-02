@@ -1,3 +1,4 @@
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
@@ -49,4 +50,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.https://github.com/NagarajGouda07/NagarajGouda07.git  }}
+          GITHUB_TOKEN: ${{ secrets.https://github.com/NagarajGouda07/NagarajGouda07.git }}
