@@ -64,6 +64,4 @@
 
 <br/>
 
-<h1 align="center" color="red">🤝🤝 Thank You..... 🤝🤝 </h1>
-
 <br/>
