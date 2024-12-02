@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: https://github.com/NagarajGouda07/NagarajGouda07
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.1.0
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.1.0
         with:
           github_user_name: NagarajGouda07
           outputs: |
